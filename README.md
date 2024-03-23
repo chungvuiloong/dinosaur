@@ -22,4 +22,4 @@ $ deno task build
 deno run --allow-env --allow-net api/main.ts
 
 ## How to start frontend
-deno task start
+deno task dev
